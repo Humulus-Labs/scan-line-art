@@ -1,0 +1,5 @@
+imgs
+src
+tests
+*.py
+.DS_Store
